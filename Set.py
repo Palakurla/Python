@@ -11,7 +11,7 @@ ls=[1,1,2,3,4,5,5,5,6,7,7,8]    #lists are defined using [] and set is defined a
     #0 1 2 3 4 5 6 7 8 9 10 11
 #print(set(ls))
 
-# for i in ls:    #Element based for loop
+# for i in ls:    #Element based for loop  
 #     #print(ls)
 #     print(i)
     
